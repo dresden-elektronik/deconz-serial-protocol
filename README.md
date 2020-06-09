@@ -1,6 +1,6 @@
 # deCONZ Serial Protocol
 
-The following document describes the binary serial protocol used between deCONZ and the RaspBee, ConBee and ConBee II firmware.
+The following document describes the binary serial protocol used between deCONZ and the RaspBee, RaspBee II, ConBee and ConBee II firmware.
 
 [deCONZ-Serial-Protocol-en_1.14.pdf](https://deconz.dresden-elektronik.de/raspbian/deCONZ-Serial-Protocol-en_1.14.pdf?ref=gh)
 
